@@ -17,4 +17,5 @@
 brain_71.txt为原始网络即测试网络  
 node_random_1k_test.py为测试程序  
 changed_network_node0-changed_network_node70为置乱节点0-节点70对应生成的新网络  
-
+compared_featur.csv为保存原始网络和置乱不同节点后的新网络的四种统计特征的值（平均最短路径l、平均聚类系数c、匹配系数r、模块度Q）  
+distance.csv为不同节点的四种统计特征与原始网络统计特征的差值  
